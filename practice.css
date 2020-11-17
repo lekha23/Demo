@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lobster+Two:wght@700&display=swap');@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+body{
+    background-image: url("hd-wallpaper-for-laptop-full-screen-new-wallpaper-full-hd.jpg");
+    overflow: scroll;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.img{
+    margin-left: 32px;
+}
+/* .main{
+    display: flex;
+} */
+table{
+    height: 10px;
+    margin: 70px;
+    /* max-width: max-content; */
+    width: 80%;
+    padding: 10px;
+    border-color: bisque;
+    border: 5px solid white;
+}
+tr{
+    margin: 70px;
+    border: 20px solid  red;
+    /* width: 400px; */
+    padding: 50px;
+}
+
+td a{
+    color: white;
+
+}
+li{
+    list-style-type: none ;
+    margin: 20px 0px;
+}
+/* .dobby{
+    
+    background: sandybrown;
+
+}
+#draco {
+    background-color: slateblue;
+}
+#hermione{
+    align-self: start;
+    color: black;
+    background-color: snow;
+}
+#ron{
+    background-color: teal;
+    height: 50px;
+    width: 50px;
+} */
